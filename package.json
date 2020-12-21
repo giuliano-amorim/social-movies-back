@@ -1,12 +1,12 @@
 {
-  "name": "cs5610-movie-node-server",
+  "name": "social-movies",
   "version": "1.0.0",
-  "description": "The-Movie-Network Server for CS5610 Summer 2018 Project",
+  "description": "rede social de filmes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aniruddha Tapas, Paarth Kotak, Russia Aiyappa ",
+  "author": "Giuliano Lopes Vieira Amorim",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
