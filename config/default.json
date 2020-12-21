@@ -1,0 +1,7 @@
+{
+
+"MONGO_URI" : "mongodb://sharecust:sharecust@cluster0user-shard-00-00.ljolt.gcp.mongodb.net:27017,cluster0user-shard-00-01.ljolt.gcp.mongodb.net:27017,cluster0user-shard-00-02.ljolt.gcp.mongodb.net:27017/moviesSocial?ssl=true&replicaSet=atlas-gnlgxl-shard-0&authSource=admin&retryWrites=true&w=majority",
+"jwtSecret" : "LmQQGp-w,pI8}/R',#(f5M:l[@38D~:m)22HKF<CZ@JY';b^uSUJ$ZLZ_IShP#C",
+"githubToken" : "yousecrettoken"
+
+}
