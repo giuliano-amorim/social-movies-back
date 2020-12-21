@@ -3,7 +3,7 @@ let session = require('express-session');
 let bodyParser = require('body-parser');
 const connectDB = require('./config/db')
 
-const CLIENT_URL = "http://localhost:3000";
+const CLIENT_URL = "https://social-movies.vercel.app"
 
 let app = express();
 app.use(bodyParser.json());
